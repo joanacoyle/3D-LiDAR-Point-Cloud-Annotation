@@ -22,7 +22,20 @@ The project focuses on 3D object detection, cuboid annotation, alignment, and ob
 
 ## Annotation Examples
 
-Screenshots of CVAT annotation exercises will be included here to demonstrate cuboid placement, alignment, and tracking.
+### 1. Multi-Object Cuboid Annotation
+![Multiple 3D cuboids in a LiDAR point cloud](images/multi-object-cuboid-annotation.png)
+
+### 2. Cuboid Alignment Using Multiple Views
+![Cuboid alignment using Top, Side, and Front views](images/cuboid-alignment-multiple-views.png)
+
+### 3. Cuboid Position and Size Adjustment
+![3D cuboid position and size adjustment](images/cuboid-position-size-adjustment.png)
+
+### 4. 3D Object Tracking
+![3D object tracking in CVAT](images/3d-object-tracking.png)
+
+### 5. 3D Object Detection
+![3D object detection in a LiDAR point cloud](images/3d-object-detection.png)
 
 ## Training
 
